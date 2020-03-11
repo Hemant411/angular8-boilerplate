@@ -9,7 +9,4 @@ In the project directory, you can run:
 
 ### `npm install`
 
-then
-
-### `ng serve --open`
-then automatically open ### `http://localhost:4200/` in your browser.
+then `ng serve --open`. Automatically open  `http://localhost:4200/` in your browser.
